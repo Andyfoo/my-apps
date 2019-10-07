@@ -1,8 +1,8 @@
 {
-	"version": "1.0.9",
+	"version": "1.0.10",
 	"desc": "修改部分问题",
 	"name": "GoSubTitleSearcher",
 	"type": "exe",
 	"sign": "AFE10E4849806C2B91221D452F224FAE",
-	"url": "https://github.com/Andyfoo/my-apps/raw/master/go/tools/GoSubTitleSearcher/GoSubTitleSearcher_1.0.9.exe"
+	"url": "https://github.com/Andyfoo/my-apps/raw/master/go/tools/GoSubTitleSearcher/GoSubTitleSearcher_1.0.10.exe"
 }
