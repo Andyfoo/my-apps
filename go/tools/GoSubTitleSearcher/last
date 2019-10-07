@@ -3,6 +3,6 @@
 	"desc": "修改部分问题\\n增加新功能",
 	"name": "GoSubTitleSearcher",
 	"type": "exe",
-	"sign": "1AA84F2F1877289C0C9EACBB6C0B7966",
+	"sign": "80DD09DB63465A58837F773C65EE0E4D",
 	"url": "https://github.com/Andyfoo/my-apps/raw/master/go/tools/GoSubTitleSearcher/GoSubTitleSearcher.exe"
 }
