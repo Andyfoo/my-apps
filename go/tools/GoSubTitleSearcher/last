@@ -1,8 +1,8 @@
 {
-	"version": "1.0.1",
-	"desc": "修改部分问题",
+	"version": "1.0.2",
+	"desc": "增加日志文件",
 	"name": "GoSubTitleSearcher",
 	"type": "exe",
-	"sign": "6329637BEC7C682767505F2A5F70E3B2",
-	"url": "https://github.com/Andyfoo/my-apps/raw/master/go/tools/GoSubTitleSearcher/GoSubTitleSearcher_1.0.1.exe"
+	"sign": "B4A1BEF3F97522B9FD7D494B7BE5C90E",
+	"url": "https://github.com/Andyfoo/my-apps/raw/master/go/tools/GoSubTitleSearcher/GoSubTitleSearcher_1.0.2.exe"
 }
