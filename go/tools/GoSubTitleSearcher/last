@@ -3,6 +3,6 @@
 	"desc": "增加日志文件，修改自动升级bug",
 	"name": "GoSubTitleSearcher",
 	"type": "exe",
-	"sign": "5CA34A92E006998547BF36165FF8912C",
+	"sign": "9B2650D7BF1D339B35A5CE8C9237BC84",
 	"url": "https://github.com/Andyfoo/my-apps/raw/master/go/tools/GoSubTitleSearcher/GoSubTitleSearcher_1.0.3.exe"
 }
