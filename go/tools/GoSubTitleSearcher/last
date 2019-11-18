@@ -1,17 +1,8 @@
 {
-<<<<<<< HEAD
 	"version": "1.0.4",
 	"desc": "修改字幕库下载失败问题",
 	"name": "GoSubTitleSearcher",
 	"type": "exe",
 	"sign": "59839035093C1BC14D6968F250C88429",
 	"url": "https://github.com/Andyfoo/my-apps/raw/master/go/tools/GoSubTitleSearcher/GoSubTitleSearcher_1.0.4.exe"
-=======
-	"version": "1.0.3",
-	"desc": "增加日志文件，修改自动升级bug",
-	"name": "GoSubTitleSearcher",
-	"type": "exe",
-	"sign": "9B2650D7BF1D339B35A5CE8C9237BC84",
-	"url": "https://github.com/Andyfoo/my-apps/raw/master/go/tools/GoSubTitleSearcher/GoSubTitleSearcher_1.0.3.exe"
->>>>>>> a0792636bf667fc26bdfb649c83eadbc9828a4d2
 }
