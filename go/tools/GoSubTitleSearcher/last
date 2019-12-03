@@ -1,8 +1,8 @@
 {
-	"version": "1.0.4",
-	"desc": "修改字幕库下载失败问题",
+	"version": "1.0.5",
+	"desc": "更新链接打开失败导致退出问题",
 	"name": "GoSubTitleSearcher",
 	"type": "exe",
-	"sign": "59839035093C1BC14D6968F250C88429",
-	"url": "https://github.com/Andyfoo/my-apps/raw/master/go/tools/GoSubTitleSearcher/GoSubTitleSearcher_1.0.4.exe"
+	"sign": "93A14E5DF06AAD3D505DAD78B8D3EAAD",
+	"url": "https://github.com/Andyfoo/my-apps/raw/master/go/tools/GoSubTitleSearcher/GoSubTitleSearcher_1.0.5.exe"
 }
