@@ -3,6 +3,6 @@
 	"desc": "修改字幕库不能下载问题",
 	"name": "GoSubTitleSearcher",
 	"type": "exe",
-	"sign": "B3614000459941CAA8B553123F20B4EF",
+	"sign": "E76188C407FD4805A14039F9675C4A08",
 	"url": "https://github.com/Andyfoo/my-apps/raw/master/go/tools/GoSubTitleSearcher/GoSubTitleSearcher_1.0.6.exe"
 }
